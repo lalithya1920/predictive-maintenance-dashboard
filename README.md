@@ -3,7 +3,7 @@
 An interactive dashboard that helps a factory reduce unexpected machine failures by analysing machine usage, sensor readings, maintenance history and failure records.
 
 **Author:** Lalithya J & Vindhya V
-**Live app:** 
+**Live app:** https://predictive-maintenance-dashboard-bfighy3bebbhikwpjrsh5g.streamlit.app/
 
 ## Business problem
 A factory wants to reduce unexpected machine failures. This project answers:
@@ -57,8 +57,8 @@ Because temperature was designed to rise before failures, its importance in the 
 
 ## How to run
 ```bash
-git clone [your repo link]
-cd [repo name]
+git clone https://github.com/lalithya1920/predictive-maintenance-dashboard
+cd predictive-maintenance-dashboard
 python -m venv venv
 venv\Scripts\activate        # Mac/Linux: source venv/bin/activate
 pip install -r requirements.txt
